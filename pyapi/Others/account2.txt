@@ -1,0 +1,46 @@
+Updating Account Information:
+To update your personal information such as your name or phone number or password:
+1.Log into your account.
+2.Go to the 'Account Settings' or 'Profile Settings' section.
+3.Update the desired information.
+4.Save the changes to update your account details.
+
+
+
+Updating Weight:
+To update your weight in your profile, follow these steps:
+Log into your account.
+Navigate to the 'Profile Settings' or 'Health Settings' section.
+Look for the 'Update Weight' option and click on it.
+Enter your current weight.
+Save the changes to update your weight information in your profile.
+Updating Interest Tags:
+
+
+To update your interest tags, follow these steps:
+Log into your account.
+Go to your profile settings.
+Look for the 'Edit Profile' or 'Interests' section.
+Click on the 'Update Interests' option.
+Add or remove interest tags as desired.
+Save the changes to update your interest tags.
+
+
+Updating Value Tags:
+To update your value tags, follow these steps:
+Log into your account.
+1.Navigate to the 'Profile Settings' or 'Values' section.
+2.Look for the 'Update Values' option and click on it.
+3.Add or remove value tags based on your preferences.
+4.Save the changes to update your value tags.5.Updating Bio:
+
+To update your bio, follow these steps:
+Log into your account.
+Go to your profile settings.
+Look for the 'Edit Profile' or 'Bio' section.
+Click on the 'Update Bio' option.
+Enter your new bio information.
+Save the changes to update your bio.
+
+Resetting forgotten password:
+If you have forgotten your password, don't worry. You can easily reset it by using the 'Forgot Password' link provided on the login page. Click on the link and follow the instructions to reset your password securely.

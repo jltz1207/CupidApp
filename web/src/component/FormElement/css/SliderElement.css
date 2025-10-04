@@ -1,0 +1,25 @@
+.horizontal-slider {
+  width: 100%;
+  height: 25px;
+}
+
+.thumb {
+  height: 25px;
+  width: 5px;
+  background-color: #000000;
+  cursor: pointer;
+  box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.2);
+  transition: background-color 0.2s, transform 0.2s;
+}
+.track {
+  top: 0;
+  bottom: 0;
+  background: #ddd;
+  border-radius: 5px;
+}
+
+.track-1 {
+  background: #0180AB;
+  border-radius: 5px;
+}
+/*  */

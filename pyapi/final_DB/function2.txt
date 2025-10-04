@@ -1,0 +1,265 @@
+Facial Similarity Matching:
+To find matches based on user preferences using facial recognition technologies:
+Log into your account.
+Navigate to the profile settings or matching section.
+Look for the 'Facial Similarity Matching' option and click on it.
+Upload a reference photo.
+The system will process the photo and look for faces that match the supplied photograph the closest.
+Review the suggested matches based on facial similarity.
+
+Chat Reply Generation:
+To use the AI-powered chat reply generation feature:
+Log into your account and start a chat with a match.
+In the chat window, look for the 'AI Reply' option.
+Choose the length and tone of your chat response (e.g., Friendly, Serious, Humorous, Casual).
+The AI will generate a contextually appropriate response to promote more seamless and interesting dialogues.
+Review and send the generated reply.
+
+Bio Description Generation:
+To use the AI model to create your bio:
+Log into your account.
+Navigate to the profile settings.
+Look for the 'Bio Description Generation' option and click on it.
+Answer the brief questionnaire provided.
+The AI will use your responses to generate a personalized bio.
+Review and save the generated bio to your profile.
+
+Cupid AI Chatbot:
+To interact with the Cupid AI Chatbot for personalized matchmaking:
+Log into your account.
+Go to the chat section and select 'Cupid AI Chatbot'.
+Engage with the chatbot by answering its questions about your interests and preferences.
+The chatbot will combine the gathered data with the matching algorithm to deliver a more customized chat experience.
+The chatbot will remember keywords entered by you to understand your preferences and improve the quality of matches.
+
+Assistant AI Chatbot:
+To get assistance from the Assistant AI Chatbot:
+Log into your account.
+Go to the chat section and select 'Assistant AI Chatbot'.
+Ask any questions you have regarding the program or features.
+The chatbot will offer guidance and support to enhance your user's experience and satisfaction.
+
+Advanced Matching Performance:
+To benefit from advanced matching performance:
+Log into your account.
+Ensure your profile is complete with personality and interest tags.
+Interact with the Cupid AI Chatbot to provide more data about your preferences.
+The system will use this data along with shared personality and common interests to offer more personalized matches.
+Review the suggested matches based on the advanced matching algorithm.
+
+Reporting a User :
+If you encounter any problems or issues with the User, you can report them as follows:
+Log into your account.
+Find the user and click setting 
+Provide a detailed description of the issue you are facing.
+Submit the report, and the support team will assist you in resolving the issue.
+
+
+Problem: AI-generated bio is not accurate
+If the AI-generated bio does not accurately reflect your interests and personality, follow these steps:
+Log into your account.
+Navigate to the 'Profile Settings' section.
+Look for the 'Bio Description Generation' option and click on it.
+Review the answers you provided to the questions "What Are You Looking For?" and "Other Details."
+Make sure your answers are detailed and specific to help the AI generate a more accurate bio.
+Click 'AI-Generate' to create a new bio based on your updated answers.
+Review the new bio and make any necessary adjustments before saving it to your profile.
+
+Problem: Face similarity matching is taking too long
+If the face similarity matching process is taking too long, follow these steps:
+Ensure that your internet connection is stable and strong.
+Reduce the file size of the photo you are uploading by using a photo editing tool to compress the image without losing quality.
+Log into your account.
+Navigate to the 'Facial Similarity Matching' section.
+Upload the compressed photo and initiate the matching process again.
+If the issue persists, try clearing your browser cache or using a different browser.
+If the problem continues, contact customer support for further assistance.
+
+Problem: AI chat reply generation is not contextually appropriate
+If the AI-generated replies in chats are not contextually appropriate, follow these steps:
+Log into your account and start a chat with a match.
+In the chat window, look for the 'AI Reply' option.
+Make sure you have selected the appropriate length and tone for the reply (e.g., Friendly, Serious, Humorous, Casual).
+Provide more context in your chat messages to help the AI generate better responses.
+If the AI response is still not appropriate, manually edit the reply before sending it.
+If needed, disable the AI reply generation feature and type your responses manually.
+
+Problem: Cupid AI Chatbot is not personalizing matches accurately
+If the Cupid AI Chatbot is not providing personalized matches accurately, follow these steps:
+Log into your account.
+Go to the chat section and select 'Cupid AI Chatbot'.
+Engage with the chatbot by answering its questions about your interests and preferences in detail.
+Ensure you provide comprehensive and honest answers to help the chatbot understand your preferences better.
+If the chatbot is still not providing accurate matches, review and update your profile information, including interest tags and value tags.
+Interact with the chatbot again to provide updated information for better matches.
+
+Problem: Assistant AI Chatbot is not providing helpful responses
+If the Assistant AI Chatbot is not providing helpful responses, follow these steps:
+Log into your account.
+Go to the chat section and select 'Assistant AI Chatbot'.
+Clearly state your question or issue to help the chatbot understand your query better.
+If the response is still not helpful, try rephrasing your question or providing more context.
+If the problem persists, consult the 'Help' or 'Support' section of the application for additional resources.
+If you continue to experience issues, contact customer support for further assistance.
+
+Problem: Advanced matching performance is not accurate
+If the advanced matching performance is not providing accurate matches, follow these steps:
+Log into your account.
+Ensure your profile is complete with detailed personality and interest tags.
+Interact with the Cupid AI Chatbot to provide more data about your preferences.
+Verify that your interest tags, value tags, and bio accurately reflect your preferences and personality.
+If matches are still not accurate, review and update your profile information to ensure it is comprehensive and up-to-date.
+Contact customer support if the issue persists, providing details about the inaccuracies you are experiencing.
+
+Problem: Difficulty uploading photos for facial similarity matching
+If you are having difficulty uploading photos for facial similarity matching, follow these steps:
+Ensure your photo meets the required specifications (e.g., file format, size, and resolution).
+Log into your account.
+Navigate to the 'Facial Similarity Matching' section.
+Click on the 'Upload' button and select the photo from your device.
+Ensure the photo is a clear and well-lit image of your face.
+If the upload fails, try using a different browser or device.
+If the problem persists, contact customer support for further assistance.
+
+Problem: AI-generated chat reply is repetitive
+If the AI-generated chat replies are repetitive, follow these steps:
+Log into your account and start a chat with a match.
+In the chat window, look for the 'AI Reply' option.
+Choose different lengths and tones for the replies to add variety (e.g., Friendly, Serious, Humorous, Casual).
+Provide more context in your chat messages to help the AI generate diverse responses.
+If the replies are still repetitive, manually edit the reply before sending it.
+If needed, disable the AI reply generation feature and type your responses manually.
+
+
+Problem: Bio Description Generation is too generic
+If the AI-generated bio is too generic and does not stand out, follow these steps:
+Log into your account.
+Navigate to the 'Profile Settings' section.
+Look for the 'Bio Description Generation' option and click on it.
+Provide detailed and unique answers to the questions "What Are You Looking For?" and "Other Details."
+Click 'AI-Generate' to create a new bio based on your updated answers.
+Review the new bio and make any necessary adjustments to add more personal touches before saving it to your profile.
+If the bio remains too generic, consider writing some parts manually to better reflect your personality.
+
+
+Problem: Difficulty understanding how to use the AI chatbots
+If you are having trouble understanding how to use the AI chatbots, follow these steps:
+Log into your account.
+Go to the chat section and select either 'Cupid AI Chatbot' or 'Assistant AI Chatbot'.
+Start a conversation by typing your message in the chat input field.
+For Cupid AI Chatbot, answer the questions about your interests and preferences to get personalized matchmaking advice.
+For Assistant AI Chatbot, ask any questions you have regarding the program or features.
+If you need more guidance, navigate to the 'Help' or 'Support' section for detailed instructions on using the chatbots.
+
+Problem: AI-generated bio includes incorrect information
+If the AI-generated bio includes incorrect information, follow these steps:
+Log into your account.
+Navigate to the 'Profile Settings' section.
+Look for the 'Bio Description Generation' option and click on it.
+Review the answers you provided to the questions "What Are You Looking For?" and "Other Details."
+Correct any inaccurate information in your responses.
+Click 'AI-Generate' to create a new bio based on your updated answers.
+Review the new bio and make any necessary adjustments before saving it to your profile.
+
+Problem: Face similarity matching results are not accurate
+If the face similarity matching results are not accurate, follow these steps:
+Ensure that the photo you uploaded is clear, well-lit, and shows a frontal view of your face.
+Log into your account.
+Navigate to the 'Facial Similarity Matching' section.
+Upload a high-quality reference photo.
+If the results are still not accurate, try uploading a different photo.
+Make sure you do not have accessories like hats, glasses, or masks that could obstruct your facial features.
+If the issue persists, contact customer support for further assistance.
+
+Problem: AI chat reply generation is not working
+If the AI chat reply generation feature is not working, follow these steps:
+Ensure that you have a stable internet connection.
+Log into your account and start a chat with a match.
+In the chat window, look for the 'AI Reply' option.
+Make sure you have selected the length and tone for the reply.
+If the AI reply generation still does not work, clear your browser cache or try using a different browser.
+If the problem continues, contact customer support for further assistance.
+
+Problem: Cupid AI Chatbot is not asking relevant questions
+If the Cupid AI Chatbot is not asking relevant questions, follow these steps:
+Log into your account.
+Go to the chat section and select 'Cupid AI Chatbot'.
+Ensure you provide detailed and accurate answers to the chatbot's initial questions.
+If the chatbot still asks irrelevant questions, try restarting the conversation.
+Make sure your profile information, including interest tags and value tags, is complete and up-to-date.
+If the issue persists, contact customer support for further assistance.
+
+Problem: Assistant AI Chatbot provides incomplete answers
+If the Assistant AI Chatbot provides incomplete answers, follow these steps:
+Log into your account.
+Go to the chat section and select 'Assistant AI Chatbot'.
+Clearly state your question or issue to help the chatbot understand your query better.
+If the response is incomplete, try rephrasing your question or providing more context.
+If the problem persists, consult the 'Help' or 'Support' section of the application for additional resources.
+If you continue to experience issues, contact customer support for further assistance.
+
+Problem: Difficulty saving changes to profile settings
+If you are having difficulty saving changes to your profile settings, follow these steps:
+Log into your account.
+Navigate to the 'Profile Settings' section.
+Make the desired changes to your profile.
+Ensure all required fields are filled out correctly.
+Click the 'Save' button to apply the changes.
+If the changes do not save, try clearing your browser cache or using a different browser.
+If the problem persists, contact customer support for further assistance.
+
+Problem: Advanced matching performance is inconsistent
+If the advanced matching performance is inconsistent, follow these steps:
+Log into your account.
+Ensure your profile is complete with detailed personality and interest tags.
+Interact with the Cupid AI Chatbot to provide more data about your preferences.
+Verify that your interest tags, value tags, and bio accurately reflect your preferences and personality.
+If matches are still inconsistent, review and update your profile information to ensure it is comprehensive and up-to-date.
+Contact customer support if the issue persists, providing details about the inconsistencies you are experiencing.
+
+Problem: Photos not displaying correctly in chat
+If photos are not displaying correctly in chat, follow these steps:
+Ensure the photos you upload meet the required specifications (e.g., file format, size, and resolution).
+Log into your account and start a chat with a match.
+In the chat window, look for the 'Upload' or 'Attach' option and select the photo from your device.
+If the photo does not display correctly, try uploading a different photo.
+Clear your browser cache or try using a different browser if the problem persists.
+Contact customer support for further assistance if the issue continues.
+
+Problem: Difficulty understanding AI-generated responses
+If you have difficulty understanding AI-generated responses, follow these steps:
+Log into your account and start a chat with a match.
+In the chat window, look for the 'AI Reply' option.
+Choose a simpler tone for the AI-generated reply (e.g., Friendly or Casual).
+If the response is still difficult to understand, manually edit the reply before sending it.
+If needed, disable the AI reply generation feature and type your responses manually.
+Contact customer support if you continue to experience issues understanding AI-generated responses.
+
+Problem: Errors when uploading documents for Assistant AI Chatbot
+If you encounter errors when uploading documents for the Assistant AI Chatbot, follow these steps:
+Ensure the document is in a supported file format (e.g., .txt, .pdf).
+Log into your account.
+Navigate to the 'Assistant AI Chatbot' section.
+Click on the 'Upload Documents' option and select the document from your device.
+If the upload fails, try using a different browser or device.
+Ensure the document does not exceed the maximum file size limit.
+If the problem persists, contact customer support for further assistance.
+
+Problem: Inaccurate keyword extraction by Cupid AI Chatbot
+If the Cupid AI Chatbot is inaccurately extracting keywords from your responses, follow these steps:
+Log into your account.
+Go to the chat section and select 'Cupid AI Chatbot'.
+Provide clear and specific answers to the chatbot's questions to help it extract accurate keywords.
+If the extracted keywords are still inaccurate, try rephrasing your responses.
+Review and update your profile information, including interest tags and value tags, to ensure they are accurate.
+If the issue persists, contact customer support for further assistance.
+
+Problem: Difficulty logging out of connected devices
+If you are having difficulty logging out of connected devices, follow these steps:
+Log into your account.
+Navigate to the 'Security Settings' section.
+Look for the 'Connected Devices' or 'Device Management' option.
+View the list of devices currently logged into your account.
+Select the device you want to log out of and click the 'Log Out' option.
+If the log-out process fails, try using a different browser or device.
+Contact customer support if the issue continues.

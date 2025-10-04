@@ -1,0 +1,38 @@
+.timer-container {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: #333;
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 10px;
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+}
+
+.time-display {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0;
+}
+
+.time-section {
+    font-size: 2em;
+    position: relative;
+}
+
+.time-section span {
+    font-size: 0.4em;
+    position: absolute;
+    bottom: -10px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+input, button {
+    padding: 10px;
+    margin: 10px;
+    font-size: 1em;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+}

@@ -1,0 +1,200 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  overflow: hidden;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+p, span {
+  font-family: 'Inter', sans-serif;
+  color: black;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.blur-overlay{
+  z-index:99 ;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  backdrop-filter: blur(2px); /* This will blur the content behind the overlay */
+  background-color: rgba(0, 0, 0, 0.25);
+}
+.blur-overlay-normal{
+  
+  backdrop-filter: blur(2px); /* This will blur the content behind the overlay */
+  background-color: rgba(0,0,0,0.25);
+}
+.centered-flex-container {
+  z-index: 100;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.info-table{
+
+  border-radius: 25px;
+  width: 1200px;
+  height: 800px;
+ 
+  /* transform: translate(-50%, -50%); */
+  background-color: white;
+}
+.info-info-table{
+  border-radius: 25px;
+  position:absolute;
+  width: 650px;
+  /* z-index: 101; no need, this is on top of other parent have zindex*/
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+}
+.absolute-center{
+  position:absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.multiple-input-container input {
+  margin-right: 10px;
+}
+
+.multiple-input-container .multiple-input-options label {
+  padding: 10px;
+  border: solid 2px rgb(144, 144, 144);
+  border-radius: 10px;
+  transition: all 0.3s;
+  margin-right: 10px;
+}
+
+input[type=radio]:checked + label {
+  border: solid 2px rgb(221, 39, 22);
+}
+
+input[type=radio] {
+  display: none;
+}
+
+.tag-container{
+  display:flex;
+  gap:0.75rem;
+ 
+  width: 100%;
+  flex-wrap:wrap;
+
+}
+.regInfo-children{
+  display: flex;
+    flex-direction: column;
+   
+    width: 70%;
+    gap: 0.75rem;
+}
+
+
+.page-parent {
+  margin: 10px;
+  background-color: white;
+  border-radius: 20px 20px 0px 0px;
+  height: 100%;
+  width: 100%;
+  /* padding-left: 5px;
+  padding-right:13px; */
+
+}
+.gpt-chat-parent {
+  
+  background-color: white;
+  height: 100vh;
+  width: 100%;
+  /* border-radius: 20px 20px 0px 0px; */
+  
+}
+.chat-parent {
+  
+  background-color: white;
+  height: 100vh;
+  width: 100%;
+  /* border-radius: 20px 20px 0px 0px; */
+  
+}
+
+/* chatroom  */
+
+
+
+.detailsList {
+  /* border-radius: 20px 0px 0px 0px; */
+  height:100%;
+  overflow-y: auto; /* This will show a scrollbar when necessary */
+  background-color: white;
+  width: 20%;
+  min-width: 200px;
+  padding-bottom: 50px;
+}
+
+.chatRoom {
+  height: 100%; /* or any other fixed height */
+  overflow-y: auto; /* This will show a scrollbar when necessary */
+  flex-grow:1
+}
+
+.profileSection {
+  
+  width: 20%;
+  border-radius: 0px 20px 0px 0px;
+
+}
+
+/* Responsive design adjustments */
+@media (max-width: 768px) {
+  .detailsList,
+  .profileSection {
+    width: 25%; /* Slightly larger on smaller screens */
+  }
+
+  .chatRoom {
+    width: 50%; /* Adjusted width on smaller screens */
+  }
+}
+
+@media (max-width: 480px) {
+  .chatParent {
+    flex-direction: column;
+  }
+
+  .detailsList,
+  .chatRoom,
+  .profileSection {
+    width: 100%; /* Stack them on very small screens */
+  }
+}
+.msg-warning{
+  font-style:italic;
+  color:red;
+}

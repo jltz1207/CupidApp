@@ -1,0 +1,17 @@
+Location Filter
+The App is currently not supported with the Location Filter function. Only support with the Age Filtering
+
+Premium Features
+The App is currently not supported with the Premium Features
+
+Blocking Function 
+The App is currently not supported with the Blocking Function
+
+swipe left on someone I'm interested in
+You can Reload the application, you may find him/her against
+
+Disable Account
+The Disable Features are currently not supported, the next version will support it.
+
+Notification 
+The App is web application, not supported with the Notification

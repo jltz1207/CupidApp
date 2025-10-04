@@ -1,0 +1,30 @@
+# Web Framework
+Flask==3.0.0
+
+# LangChain - let pip choose compatible versions
+langchain
+langchain-community
+langchain-openai
+
+# Vector Database & Embeddings
+chromadb
+fastembed
+
+# Document Processing
+pdfplumber
+Pillow
+
+# OpenAI & Azure
+openai
+
+# Face Recognition
+face-recognition
+
+# Environment Variables
+python-dotenv
+
+# HTTP Client
+requests
+
+# Utilities
+numpy
